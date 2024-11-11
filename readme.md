@@ -1,5 +1,3 @@
-/Users/gandhi/GandhiMain/700-Apps/unleashing-envizi-planning-analytics/image1
-
 # Unleasing Planning Analytics AddOn in IBM Envizi
 
 Accelerate decarbonization - Plan a low carbon future with Envizi’s planning & forecasting solution
@@ -18,17 +16,13 @@ Here is the high level Architecture
 <img src="images/img-11.png">
 
 
-
- `web` 
-
-
  ## Objective
 
 Start by launching the accelerator and getting familiar with the templates and dashboards available
 Perform simple calculations on those forecasts to develop targets, which we will export and bring back into Envizi for performance monitoring.
  
 
-## Envizi platform
+## 1. Envizi platform
 
 Let's consider the Organization Hierarchy of Envizi is looking like the below.
 
@@ -55,14 +49,14 @@ Let's consider the Organization Hierarchy of Envizi is looking like the below.
 
 <img src="images/img-23.png">
 
-## 	PA Welcome Screen
+## 	2. PA Welcome Screen
 
 The first screen of the accelerator provides an overview of the templates and dashboards available. For each tab, the following explanation are provided.
 - the purpose
 - capabilities to explore
 - next steps
 
-## 	PA Data Exploration & Forecasting 
+## 	3. PA Data Exploration & Forecasting 
 
 - Exploration grid is like a flexible pivot table
 - Add, edit or remove objects (dimensions) in your workbench to change how data is displayed and grouped in the exploration grid
@@ -88,7 +82,7 @@ Let’s change the filters on our dashboard now:
 
 <img src="images/img-37.png">
 
-## Set up forecast: Measures, Scenario
+## 4. Set up forecast: Measures, Scenario
 
 Let’s say I’m a Sustainability Manager, I’m responsible for demonstrating how the company can meet future GHG reduction targets. I might want to see what future projections of activity or emissions might look like based on historical patterns. 
 I might then use those figures to make a case for investing in sustainability projects to bring down those figures further.
@@ -115,7 +109,7 @@ Note that these accounts are named as they are in Envizi, but account numbers an
 
 <img src="images/img-43.png">
 
-## Create Sandbox
+## 5. Create Sandbox
 
 Creating your own sandbox let you to work in your private workspace
 
@@ -137,7 +131,7 @@ Creating your own sandbox let you to work in your private workspace
 <img src="images/img-49.png">
 
 
-## Univariate Forecast
+## 6. Univariate Forecast
 
 Now let’s demonstrate the AI assisted forecasting functionality in Planning Analytics. 
 I can run a univariate forecast on the available actuals data (for demonstration purposes our data set has been loaded up until June 2024); and Planning analytics will use artificial intelligence to examine this data and determine trend, seasonality or other factors, and apply the most appropriate mathematical forecasting model to it.
@@ -208,7 +202,7 @@ Once I’m happy with this forecast, I can now calculate it and write it to the 
 
 <img src="images/img-62.png">
 
-## Rudimentary target setting
+## 7. Rudimentary target setting
 
 Let’s now make some adjustments to a forecast to develop a target.
 
@@ -259,7 +253,7 @@ Now you can see the monthly view of the forecasted values.
 <img src="images/img-71.png">
 
 
-## Populate the targets from PA to Envizi
+## 8. Populate the targets from PA to Envizi
 
 Exporting the emissions targets into Envizi.
 
@@ -274,7 +268,7 @@ Now that I have my rudimentary targets, I want to use them to populate my Envizi
 
 '<img src="images/img-76.png">
 
-## Load populated targets template
+## 10. Load populated targets template
 
 Loading target data simply involves uploading the pre-filled template
 
@@ -297,7 +291,7 @@ Verify the Monthly Target Data created, and you see the Target Data from 2024 ou
 
 <img src="images/img-80.png">
 
-## View targets report
+## 11. View targets report
 
 Let’s now open the report for 420 George St to see the targets in context in Envizi
 1.	In the Search bar, select `Reports` and type `420 George`
