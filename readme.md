@@ -34,7 +34,7 @@ Let's consider the Organization Hierarchy of Envizi is looking like the below.
 
 <img src="images/img-13.png">
 
-## 	Launch PA and Envizi accelerator
+## 	2. Launch PA and Envizi accelerator
 
 1.	Launch PA platform using IBM Id.
 2.	Click the tile `Envizi Activity and Emissions forecasting`.
@@ -49,14 +49,14 @@ Let's consider the Organization Hierarchy of Envizi is looking like the below.
 
 <img src="images/img-23.png">
 
-## 	2. PA Welcome Screen
+## 	3. PA Welcome Screen
 
 The first screen of the accelerator provides an overview of the templates and dashboards available. For each tab, the following explanation are provided.
 - the purpose
 - capabilities to explore
 - next steps
 
-## 	3. PA Data Exploration & Forecasting 
+## 	4. PA Data Exploration & Forecasting 
 
 - Exploration grid is like a flexible pivot table
 - Add, edit or remove objects (dimensions) in your workbench to change how data is displayed and grouped in the exploration grid
@@ -82,7 +82,7 @@ Let’s change the filters on our dashboard now:
 
 <img src="images/img-37.png">
 
-## 4. Set up forecast: Measures, Scenario
+## 5. Set up forecast: Measures, Scenario
 
 Let’s say I’m a Sustainability Manager, I’m responsible for demonstrating how the company can meet future GHG reduction targets. I might want to see what future projections of activity or emissions might look like based on historical patterns. 
 I might then use those figures to make a case for investing in sustainability projects to bring down those figures further.
@@ -109,7 +109,7 @@ Note that these accounts are named as they are in Envizi, but account numbers an
 
 <img src="images/img-43.png">
 
-## 5. Create Sandbox
+## 6. Create Sandbox
 
 Creating your own sandbox let you to work in your private workspace
 
@@ -131,7 +131,7 @@ Creating your own sandbox let you to work in your private workspace
 <img src="images/img-49.png">
 
 
-## 6. Univariate Forecast
+## 7. Univariate Forecast
 
 Now let’s demonstrate the AI assisted forecasting functionality in Planning Analytics. 
 I can run a univariate forecast on the available actuals data (for demonstration purposes our data set has been loaded up until June 2024); and Planning analytics will use artificial intelligence to examine this data and determine trend, seasonality or other factors, and apply the most appropriate mathematical forecasting model to it.
@@ -202,7 +202,7 @@ Once I’m happy with this forecast, I can now calculate it and write it to the 
 
 <img src="images/img-62.png">
 
-## 7. Rudimentary target setting
+## 8. Rudimentary target setting
 
 Let’s now make some adjustments to a forecast to develop a target.
 
@@ -253,7 +253,7 @@ Now you can see the monthly view of the forecasted values.
 <img src="images/img-71.png">
 
 
-## 8. Populate the targets from PA to Envizi
+## 9. Populate the targets from PA to Envizi
 
 Exporting the emissions targets into Envizi.
 
