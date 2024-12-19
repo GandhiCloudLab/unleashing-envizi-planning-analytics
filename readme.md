@@ -1,26 +1,38 @@
 # Unleasing Planning Analytics AddOn in IBM Envizi
 
-Accelerate decarbonization - Plan a low carbon future with Envizi’s planning & forecasting solution
+Organizations are moving towards integrated planning that includes ESG(Environmental Social Governance) metrics. They are looking for a planning solution that can meet all their planning requirements. Existing planning and forecasting tools have not been designed to manage ESG data models. Also the ESG data management, planning and reporting is increasingly being integrated into existing business processes and required to meet rigorous standards. Expanding ESG reporting disclosure requirements and increased scrutiny on ESG performance organizations are looking for sophisticated, customized tools to support ESG planning and forecasting that helps them deliver integrated planning
+   
+Planning and Forecasting for ESG is at the intersection between Sustainability and Planning. This is where bringing together IBM Envizi ESG Suite and Planning Analytics can help Organizations on Integrated planning that can meet all the customer’s requirements where IBM Envizi ESG Suite looks at historical and the current ESG ledger for reporting + disclosure to demonstrate compliance and
+IBM Planning Analytics helps in ESG planning for emissions reduction to meet KPIs and Net Zero targets.
+
+Now lets look at how we can Accelerate decarbonization - Plan a low carbon future with Envizi’s planning & forecasting solution)
 
 IBM Planning Analytics (PA) for Envizi is an AddOn solution that enables customers to leverage the advanced forecasting and scenario modelling capabilities and apply those to their ESG data in IBM ESG Envizi Suite.
 
-In this document you will learn on how
-- Data exchange happens via the API-based file exchange from Envizi to PA for secure, reliable and automated means for data transfer
-- Data Cube replicates the Envizi data structure in a Planning Analytics environment and how it enables users to leverage their sustainability data to do custom modelling and forecasting.
-- Accelerate Decarbonization and plan for a low carbon future using the Activity and Emissions Forecasting using scenario modelling. You will uncover how Envizi customers can leverage Planning Analytics to plan and forecast for ESG using Accelerator 1: Activity and Emissions Forecasting which gives you a starting point for planning and setting emissions reduction targets.
+In this article you will understand about the following.
+
+- How the data exchange happens via the API-based file exchange from Envizi to PA for secure, reliable and automated means for data transfer
+
+- How data Cube replicates the Envizi data structure in a Planning Analytics environment and how it enables users to leverage their sustainability data to do custom modelling and forecasting.
+- How to accelerate decarbonization and plan for a low carbon future using the Activity and Emissions Forecasting using scenario modelling. You will uncover how Envizi customers can leverage Planning Analytics to plan and forecast for ESG using Accelerator 1: Activity and Emissions Forecasting which gives you a starting point for planning and setting emissions reduction targets.
+
+
+Let's start by launching the accelerator and getting familiar with the templates and dashboards available. And perform simple calculations on those forecasts to develop targets, which we will export and bring back into Envizi for performance monitoring.
+
+## Prerequisite
+
+1. Envizi Instance access with `PowerReport Edit` work role is needed.
 
 ## High Level Architecture
 
-Here is the high level Architecture 
+Here is the high level Architecture of the Integration of the Envizi and IBM Planning Analytics addon.
 
 <img src="images/img-11.png">
 
 
  ## Objective
 
-Start by launching the accelerator and getting familiar with the templates and dashboards available
-Perform simple calculations on those forecasts to develop targets, which we will export and bring back into Envizi for performance monitoring.
- 
+
 
 ## 1. Envizi platform
 
@@ -315,4 +327,9 @@ The targets can be reviewed and remodelled in the PA at any time ( eg: To change
 
 ## Conclusion 
 
-In this document, we explored how Envizi addon with PA works. You also learnt how to leverage export from PA and ingest into Envizi to make more informed carbon reduction targets. With this entry-point solution you were able to develop an indicative forecast. With user-driven values and a linear regression model, you could also gauge the trajectory of future performance.
+In conclusion, We have explored how Envizi addon with Planning and Analytics works. You also learnt how to leverage export from PA and ingest into Envizi to make more informed carbon reduction targets. With this entry-point solution you were able to develop an indicative forecast. With user-driven values and a linear regression model, you could also gauge the trajectory of future performance.
+
+With this Addon capability that brings Envizi and Planning Analytics together enables Partners to build custom solutions
+to provide customers with the flexibility to address their specific planning needs beyond general market requirements in the space of scenario modelling and forecasting.
+
+For more information about IBM Envizi or to try it out yourself, start your 14-day IBM Envizi ESG Suite trial. You can also request a personalized IBM Envizi demo.
