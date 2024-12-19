@@ -5,7 +5,7 @@ Organizations are moving towards integrated planning that includes ESG(Environme
 Planning and Forecasting for ESG is at the intersection between Sustainability and Planning. This is where bringing together IBM Envizi ESG Suite and Planning Analytics can help Organizations on Integrated planning that can meet all the customer’s requirements where IBM Envizi ESG Suite looks at historical and the current ESG ledger for reporting + disclosure to demonstrate compliance and
 IBM Planning Analytics helps in ESG planning for emissions reduction to meet KPIs and Net Zero targets.
 
-Now lets look at how we can Accelerate decarbonization - Plan a low carbon future with Envizi’s planning & forecasting solution)
+Now lets look at how we can Accelerate decarbonization - Plan a low carbon future with Envizi’s planning & forecasting solution
 
 IBM Planning Analytics (PA) for Envizi is an AddOn solution that enables customers to leverage the advanced forecasting and scenario modelling capabilities and apply those to their ESG data in IBM ESG Envizi Suite.
 
